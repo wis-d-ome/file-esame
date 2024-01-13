@@ -1,0 +1,4 @@
+1 Pippo 1
+2 Pluto 2
+4 Minni 4
+3 Minni 3
